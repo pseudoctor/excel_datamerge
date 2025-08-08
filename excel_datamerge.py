@@ -3,7 +3,7 @@
 """
 Excel合并工具 - EXE优化版本
 作者: Pseudoctor & AI Assistant
-版本: 1.2
+版本: 1.0 beta
 功能: 合并Excel，支持列名归一化，并能根据唯一标识（如条形码）统一字段（如商品名称）。
 """
 
